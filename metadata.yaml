@@ -1,0 +1,36 @@
+_repo: Bobby-of-Cloverfield-Farm_28652
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: archival
+  image_path: 28652-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Orton, Helen Fuller
+    birthdate: 1872
+    deathdate: 1955
+    gutenberg_agent_id: '33427'
+    url: http://www.gutenberg.org/2009/agents/33427
+description: ''
+gutenberg_issued: '2009-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28652'
+  lccn: '22022439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+title: Bobby of Cloverfield Farm
+url: http://www.gutenberg.org/ebooks/28652
